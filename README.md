@@ -1,6 +1,6 @@
-#Demo
+# Demo
 
-#👉 [Click here to view the live site](https://sunny-side-younes-maarouf.netlify.app/)
+# 👉 [Click here to view the live site](https://sunny-side-younes-maarouf.netlify.app/)
 
 
 ### React + TypeScript + Vite
